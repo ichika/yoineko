@@ -1,0 +1,6 @@
+*.py[cod]
+env
+db
+data
+data1
+.directory
